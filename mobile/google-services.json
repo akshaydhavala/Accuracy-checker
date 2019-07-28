@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258369216219",
+    "firebase_url": "https://wearabledatalayer2.firebaseio.com",
+    "project_id": "wearabledatalayer2",
+    "storage_bucket": "wearabledatalayer2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258369216219:android:03997b6de2d103d7",
+        "android_client_info": {
+          "package_name": "edu.cs4730.wearabledatalayer2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258369216219-lu9t5h5ssigbmvdd3jctqo45r16ccs69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.cs4730.wearabledatalayer2",
+            "certificate_hash": "41429c9a8c6c5d889ec80c4be177df977326bf09"
+          }
+        },
+        {
+          "client_id": "258369216219-sce8l7gogfdigq2f3buruh12qqgvn2f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU4RJGXxuvCinNJ8Sb43r9DaaXlQY4mHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258369216219-sce8l7gogfdigq2f3buruh12qqgvn2f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
